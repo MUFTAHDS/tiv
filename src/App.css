@@ -11,6 +11,9 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+  .div{
+    border: #282c34;
+  }
 }
 
 .App-header {
@@ -23,6 +26,32 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.ola1{
+  background-color: lightblue;
+  font-family: verdana;
+  font-size: 20px;
+  color: red;
+  text-align: center;
+}
+.ola2{
+  font-family: verdana;
+  font-size: 20px;
+  color: red;
+  text-align: center;
+  border-style: dashed;
+}
+.oli3{
+
+
+  font-family: verdana;
+  font-size: 20px;
+  color: red;
+  text-align: center;
+  border-style: dashed;
+}
+
+
+
 
 .App-link {
   color: #61dafb;
