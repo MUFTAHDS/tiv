@@ -1,0 +1,10 @@
+.gg{ font-size: 20px;
+    border-radius: 30px;
+    background-color: rgb(237, 162, 100);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+display: flex;
+justify-content:space-around;
+    }

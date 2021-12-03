@@ -4,8 +4,8 @@ const ProfilePhoto = () => {
     return (
         <div className="ola1">
             <img src={Photo} alt="Turbo" />
-            <img src={Photo} />
 
+            <h1>test</h1>
         </div>
     );
 }
